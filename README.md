@@ -4,3 +4,6 @@ STRIPE_SECRET_API_KEY=
 
 
 https://templates.microcms.io/templates/detail/61ad8e9d-77db-4155-964b-aa8acb6d7f41/create/complete
+
+
+https://blog.microcms.io/how-to-make-easy-microcms-site/
